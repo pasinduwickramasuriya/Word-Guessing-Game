@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="timerTextView" type="id" />
+    <item name="guessEditText" type="id" />
+    <item name="submitButton" type="id" />
+    <item name="attemptsTextView" type="id" />
+    <item name="letterButton" type="id" />
+    <item name="clueButton" type="id" />
+    <item name="scoreTextView" type="id" />
+</resources>
